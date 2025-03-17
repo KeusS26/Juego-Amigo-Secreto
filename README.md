@@ -1,6 +1,6 @@
 # Juego Amigo Secreto
    <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-red">
+   <img src="https://img.shields.io/badge/STATUS-EN%20Finalizado-red">
    </p>
 Buenas
 Este es un proyecto solicitado por el curso de Alura Latam "Fundamentos de Programación".
